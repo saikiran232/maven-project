@@ -1,4 +1,4 @@
-public class example.com
+public class com.example
 {
 
 /**
