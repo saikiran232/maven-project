@@ -1,4 +1,4 @@
-public class example
+public class Example
 {
 
 /**
