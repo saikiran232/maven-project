@@ -1,4 +1,5 @@
-
+public class example.com
+{
 
 /**
  * This is a class.
